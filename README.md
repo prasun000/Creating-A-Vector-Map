@@ -1,1 +1,2 @@
 # Creating-A-Vector-Map
+The aim of this project is to calculate global co ordinates of any point in some given screen shots with respect to a global origin.The user will be provided with some screenshots of a particular location.He will have to mark all the places' in those screenshots whose co-ordinates he is interested to know with respect to a global origin.Now using linear models we will estimate the co-ordinates of all those places chosen by the user.
